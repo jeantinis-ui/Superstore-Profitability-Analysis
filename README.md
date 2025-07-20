@@ -2,19 +2,6 @@
 
 ## Table of Contents
 
-- [Project Overview](#project-overview)
-- [Problem Statement](problem-statement)
-- [Data Source](data-source)
-- [Key Performance Indicators](key-performance-indicators)
-- [Data Cleaning](data-cleaning)
-- [Analysis Overview](analysis-overview)
-- [Regression Model](regression-model)
-- [Tableau Dashboard](tableau-dashboard)
-- [Limitations](limitations)
-- [Recommendations](recommendations)
-- [Tools Used](tools-used)
-- [Author](author)
-
 ## Project Overview
 
  Analyze Superstore's historical sales data to uncover profit trends across regions, product sub-categories, and customer segments. Provide actionable insights to guide strategy.
