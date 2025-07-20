@@ -1,7 +1,5 @@
 # Superstore Profitability Analysis - Portfolio Project
 
-## Table of Contents
-
 ## Project Overview
 
  Analyze Superstore's historical sales data to uncover profit trends across regions, product sub-categories, and customer segments. Provide actionable insights to guide strategy.
