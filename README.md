@@ -93,7 +93,7 @@ Interactive dashboard includes:
 
  ## Tools Used
 
- Excel – cleaning, feature engineering, and regression analysis
+ Excel – cleaning, feature engineering, and regression analysis [Download from this repo](Superstore Sales & Profit Analysis - Portfolio Project.xlsx) | [Source on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 Tableau – visual dashboard
 
