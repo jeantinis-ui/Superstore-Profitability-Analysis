@@ -1,5 +1,20 @@
 # Superstore Profitability Analysis - Portfolio Project
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Problem Statement](problem-statement)
+- [Data Source](data-source)
+- [Key Performance Indicators](key-performance-indicators)
+- [Data Cleaning](data-cleaning)
+- [Analysis Overview](analysis-overview)
+- [Regression Model](regression-model)
+- [Tableau Dashboard](tableau-dashboard)
+- [Limitations](limitations)
+- [Recommendations](recommendations)
+- [Tools Used](tools-used)
+- [Author](author)
+
 ## Project Overview
 
  Analyze Superstore's historical sales data to uncover profit trends across regions, product sub-categories, and customer segments. Provide actionable insights to guide strategy.
@@ -93,7 +108,7 @@ Interactive dashboard includes:
 
  ## Tools Used
 
- Excel – cleaning, feature engineering, and regression analysis [Download from this repo](Superstore Sales & Profit Analysis - Portfolio Project.xlsx) | [Source on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+ Excel – cleaning, feature engineering, and regression analysis [Download from this repo](./Superstore%20Sales%20%26%20Profit%20Analysis%20-%20Portfolio%20Project.xlsx) | [Source on Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 Tableau – visual dashboard
 
